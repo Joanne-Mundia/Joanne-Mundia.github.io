@@ -1,0 +1,46 @@
+body{
+	font-family: 'Playfair Display', serif;
+}
+.bg-1{
+	background-color: grey;
+}
+.bg-2{
+	background-color: black;
+	color: white
+}
+.bg-3{
+	background-color: white;
+}
+.container-fluid{
+	padding-top: 50px;
+	padding-bottom: 80px;
+}
+.bg-4{
+	background-color: #B6B6B4;
+	color: black;
+}
+.footer{
+	background-color: #FCDFFF;
+	margin: 5px 50px 5px 50px;
+}
+.bg-3 img {
+	height: 15em;
+}
+footer{
+	background: black;
+	color: white;
+	padding-top: 4em;
+	padding-bottom: 2em;
+}
+.joo{
+	background-color: white;
+	color: black;
+}
+.deo{
+	background-color: black;
+	color: white;
+}
+.ut{
+	background-color: black;
+	color: white;
+}
